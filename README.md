@@ -15,6 +15,4 @@
 - Kotlin 기본 자료구조, 알고리즘  
 - Kotlin 기반 GUI 프로그래밍  
 - Kotlin 기반 병렬처리, 스레드, 코루틴, 소켓 프로그래밍  
-- Kotlin 기반 웹 프로그래밍  
-- Kotlin과 Android Studio 기반 모바일 프로그래밍  
-- Kotlin 기반 마이크로 서비스 개발
+- Kotlin 기반 웹 프로그래밍 

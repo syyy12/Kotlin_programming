@@ -68,22 +68,20 @@
 ![Docker Sequence](images/docker_sequence.png)
 
 ### Docker Hub Push
-![Docker Hub Push](images/docker_hub_push.png)
+![Docker Hub Push](images/docker_hub_push2.png)
 
 ---
 
 ### Docker 실행 및 작동
 1. **Docker 실행 및 작동 1**
-   ![Docker 실행 1](images/docker_run_1.png)
+   ![Docker 실행 1](images/docker_run_2.png)
 
 2. **Docker 실행 및 작동 2**
-   ![Docker 실행 2](images/docker_run_2.png)
+   ![Docker 실행 2](images/docker_run_3.png)
 
 3. **Docker 실행 및 작동 3**
-   ![Docker 실행 3](images/docker_run_3.png)
+   ![Docker 실행 3](images/docker_run_4.png)
 
-4. **Docker 실행 및 작동 4**
-   ![Docker 실행 4](images/docker_run_4.png)
 
 ---
 

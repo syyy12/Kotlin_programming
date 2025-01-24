@@ -95,6 +95,8 @@
 
 ![Project Detail Page](images/project_detail_page.png)
 
+---
+
 
 ## 8. Docker Deployment
 

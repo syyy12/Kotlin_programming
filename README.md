@@ -61,34 +61,41 @@
 
 ## 7. Client 화면 구성
 
-### **1. Main Page**
-- 메인 페이지는 로그인된 사용자가 프로젝트와 유저 관리를 선택할 수 있는 페이지입니다.
-- 주요 기능:
-  - 프로젝트 관리 페이지로 이동
-  - 사용자 관리 페이지로 이동
+### **1. Main Page (메인 페이지)**
+- **설명:**  
+  메인 페이지는 사용자가 시스템에 접속했을 때 처음으로 보게 되는 화면입니다.  
+  사용자는 "직원 목록" 또는 "프로젝트 목록" 버튼을 통해 각각의 관리 페이지로 이동할 수 있습니다.  
 
 ![Main Page](images/main_page.png)
 
 ---
 
-### **2. User Management Page**
-- 사용자 관리 페이지에서는 회사에 소속된 사용자들을 관리할 수 있습니다.
-- 주요 기능:
-  - 사용자 추가 및 삭제
-  - 특정 사용자에 대한 세부 정보 조회
+### **2. Employee List Page (직원 목록 페이지)**
+- **설명:**  
+  직원 목록 페이지에서는 회사의 모든 직원 정보를 확인할 수 있습니다.  
+  사용자는 새로운 직원을 추가하거나, 기존 직원의 정보를 삭제할 수 있습니다.  
 
-![User Management Page](images/user_management_page.png)
+![Employee List Page](images/employee_list_page.png)
 
 ---
 
-### **3. Project Management Page**
-- 프로젝트 관리 페이지는 회사 내 모든 프로젝트와 관련된 정보를 표시합니다.
-- 주요 기능:
-  - 프로젝트 생성 및 삭제
-  - 프로젝트에 대한 세부 정보 조회
-  - 프로젝트 참여자 관리
+### **3. Project List Page (프로젝트 목록 페이지)**
+- **설명:**  
+  프로젝트 목록 페이지에서는 회사 내 모든 프로젝트의 정보를 확인할 수 있습니다.  
+  사용자는 프로젝트를 추가하거나 기존 프로젝트의 정보를 수정할 수 있습니다.  
 
-![Project Management Page](images/project_management_page.png)
+![Project List Page](images/project_list_page.png)
+
+---
+
+### **4. Project Detail Page (프로젝트 상세 페이지)**
+- **설명:**  
+  프로젝트 상세 페이지에서는 선택된 프로젝트의 구체적인 정보와 프로젝트에 참여하는 멤버 정보를 확인할 수 있습니다.  
+  사용자는 새로운 멤버를 추가하거나 프로젝트 정보를 수정할 수 있습니다.  
+
+![Project Detail Page](images/project_detail_page.png)
+
+
 ## 8. Docker Deployment
 
 ### Docker Deployment Diagram
